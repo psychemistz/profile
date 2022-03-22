@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Seongyohng Park - Machine Learning, Bioinformatics"
+title: "Seongyong Park - Machine Learning, Bioinformatics"
 permalink: /
 author_profile: true
 date:
