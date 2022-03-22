@@ -12,10 +12,10 @@ permalink: /research/
 ### Disease Mechanism Marker Prioritization for Classification (DMMOC)
 ### Disease Mechanism Subgroup Identification by Iterative Error Estimation (DMSDIE)
 
-## Machine Learning for reproducible research
+## Self-Supervised Learning for reproducible research
 ### Minimum Variance Representation Learning (MVNet)
 
-## Machine Learning with Structured Sparsity
+## Sparse Promoting Deep Learning
 ### Deep Latent Space Encoding (DeepLSE)
 ### Deep Sparse Reconstruction Classifier (DeepSRC)
 
