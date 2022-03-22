@@ -18,7 +18,7 @@ Machine Learning -- Statistics -- Bioinformatics -- Scientific computing -- Data
 
 - [Github](https://github.com/psychemistz)
 - [Course: Biomedical statistics & statistical learning, 2018](https://psychemistz.github.io/bis335-2018/)
-- [Curriculum Vitae in pdf](https://raw.githubusercontent.com/psychemistz/profile/master/assets/cv.pdf)
+- [Curriculum Vitae in pdf](/_pages/cv.md)
 
 <!--
 - [ORCID](https://orcid.org/0000-0002-4073-3490)
