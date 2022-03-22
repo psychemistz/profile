@@ -18,16 +18,15 @@ Machine Learning -- Statistics -- Bioinformatics -- Scientific computing -- Data
 
 - [Github](https://github.com/psychemistz)
 - [Course: Biomedical statistics & statistical learning, 2018](https://psychemistz.github.io/bis335-2018/)
-- [Curriculum Vitae in pdf](https://raw.github.com/psychemistz/assets/master/cv.pdf)
+- [Curriculum Vitae in pdf](https://raw.githubusercontent.com/psychemistz/profile/master/assets/cv.pdf)
+
 <!--
 - [ORCID](https://orcid.org/0000-0002-4073-3490)
 - [Publons](https://publons.com/researcher/3743010/edouard-duchesnay/)
 - [Zotero](https://www.zotero.org/edouard.duchesnay)
 - [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mG6V3q4AAAAJ&view_op=list_works&sortby=pubdate)
 - [Habilitation thesis in pdf](https://raw.github.com/duchesnay/data/master/pdf/hdr_educhesnay.pdf)
--->
 
-<!--
 ## Experience
 - *2008-now*: **Research Scientist** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Université Paris-Saclay, France.
 - *2005-2008*: **R&D Engineer** in the [INSERM Research Unit -"Neuroimaging and Psychiatry"](http://www.inserm-u1000.u-psud.fr), Orsay, France.
