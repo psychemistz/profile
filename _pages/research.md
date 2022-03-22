@@ -6,11 +6,21 @@ permalink: /research/
 
 ## Publications
 
-[Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mG6V3q4AAAAJ&view_op=list_works&sortby=pubdate)
+[Google Scholar](https://scholar.google.com/citations?user=3GelV-YAAAAJ&hl=en)
 
+## Boosting Prior Knowledge in Machine Learning for Biomarker Discovery
+### Disease Mechanism Marker Prioritization for Classification (DMMOC)
+### Disease Mechanism Subgroup Identification by Iterative Error Estimation (DMSDIE)
+
+## Machine Learning for reproducible research
+### Minimum Variance Representation Learning (MVNet)
 
 ## Machine Learning with Structured Sparsity
+### Deep Latent Space Encoding (DeepLSE)
+### Deep Sparse Reconstruction Classifier (DeepSRC)
 
+
+<!--
 The use of machine-learning in neuroimaging offers new perspectives in early diagnosis and prognosis of brain diseases. However, algorithms should provide interpretable solutions. Biomarkers identification based on neuroimaging require new algorithms that exploit the natural spatial structure of the brain images.
 
 Although such multivariate methods can capture complex relationships in the data, traditional approaches provide irregular or scattered (l1 penalty, see Lasso penalty the figure below) predictive pattern with a very limited relevance.
@@ -49,3 +59,5 @@ With The BrainOmics(*) team,  we produced a library [ParsimonY on github](https:
 - Tommy Lofstedt (Post-doc)
 - Mathieu Dubois (Post-doc)
 - Jinpeng Li (Research Engineer)
+
+-->
