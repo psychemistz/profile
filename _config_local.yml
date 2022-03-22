@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "E. Duchesnay - Data Science & Neuroimaging"
+title                    : "Profile"
 title_separator          : "-"
-name                     : "Edouard Duchesnay"
-description              : "Perso/Pro. homepage."
-#url                      : "https://duchesnay.github.io"
+name                     : "Seongyong Park"
+description              : "Personal Profile."
+#url                      : "https://psychemistz.github.io/profile"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -63,11 +63,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Edouard Duchesnay"
-  avatar           : "2013-07_ed_focus_small.jpg"
-  bio              : "Research Scientist in Machine Learning in Neuroimaging"
-  location         : "CEA, NeuroSpin, Paris-Saclay, France"
-  email            : "edouard.duchesnay.cea.fr"
+  name             : "Seongyong Park"
+  avatar           : "profile.png"
+  bio              : "Research Scientist in Machine Learning & Bioinformatics"
+  location         : "Synergistic Bioinformatics Lab, KAIST, Daejeon, South Korea"
+  email            : "psychemistz@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -75,12 +75,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : duchesnay
+  github           : psychemistz
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : edouard-duchesnay-27b47b8
+  linkedin         :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
