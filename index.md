@@ -12,7 +12,7 @@ Design of machine learning and statistical models to discover predictive signatu
 
 ## Keywords
 
-Machine Learning -- Statistics -- Bioinformatics -- Scientific computing -- Datamanagement
+Machine Learning -- Statistics -- Bioinformatics -- Scientific computing -- Data management
 
 ## Links
 
