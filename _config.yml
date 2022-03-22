@@ -10,24 +10,13 @@ locale                   : "en-US"
 title                    : "Profile"
 title_separator          : "-"
 name                     : "Seongyong Park"
-description              : "Perso/Pro. homepage."
-url                      : "https://psychemistz.github.io/profile"
+description              : "Personal Profile."
+url                      : "https://psychemistz.github.io/profile/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
-  disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
 
 # SEO Related
 google_site_verification :
@@ -67,7 +56,7 @@ author:
   avatar           : "profile.png"
   bio              : "Research Scientist in Machine Learning & Bioinformatics"
   location         : "Synergistic Bioinformatics Lab, KAIST, South Korea"
-  email            : "psychemistz@gmail.com"
+  email            : "psychemistz.gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,8 +86,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - _data
-  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
