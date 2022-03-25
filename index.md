@@ -24,7 +24,7 @@ Machine Learning -- Statistics -- Bioinformatics -- Scientific computing -- Data
 
 ## Experience
 - *2015-now*: **Ph.D. Resaerch Scholar** at [Synergistic Bioinformatics Lab](https://synbi.kaist.ac.kr/), KAIST., South Korea.
-- *2014-2015*: **Researcher** at [Synergistic Bioinformatics Lab (https://synbi.kaist.ac.kr/), KAIST., South Korea.
+- *2014-2015*: **Researcher** at [Synergistic Bioinformatics Lab](https://synbi.kaist.ac.kr/), KAIST., South Korea.
 - *2012-2014*: **Researcher** at [Biobrain Inc.](https://biobrain.kr/), South Korea.
 - *2012*: **Researcher** at Planning and Evaluation Office, Korea Institute of Energy Technology Evaluation and Planning ([KETEP](https://www.ketep.re.kr/)), South Korea.
 
