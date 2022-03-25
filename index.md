@@ -19,21 +19,48 @@ Machine Learning -- Statistics -- Bioinformatics -- Scientific computing -- Data
 - [Github](https://github.com/psychemistz)
 - [Course: Biomedical statistics & statistical learning, 2018](https://psychemistz.github.io/bis335-2018/)
 - [Curriculum Vitae in pdf](https://raw.githubusercontent.com/psychemistz/profile/master/files/pdf/cv.pdf)
+- [Google Scholar](https://scholar.google.com/citations?user=3GelV-YAAAAJ&hl=en)
+
+
+## Experience
+- *2015-now*: **Ph.D. Resaerch Scholar** at Synergistic Bioinformatics ([SynBI](https://synbi.kaist.ac.kr/)) Lab, KAIST., South Korea.
+- *2014-2015*: **Researcher** at Synergistic Bioinformatics ([SynBI](https://synbi.kaist.ac.kr/)) Lab, KAIST., South Korea.
+- *2012-2014*: **Researcher** at [Biobrain Inc.](https://biobrain.kr/), South Korea.
+- *2012*: **Researcher** at Planning and Evaluation Office, Korea Institute of Energy Technology Evaluation and Planning ([KETEP](https://www.ketep.re.kr/)), South Korea.
+
+## Education
+- *2015-now*: **Ph.D.** in Bioinformatics at Korean Advanced Institute of Science and Technology ([KAIST](http://www.kaist.ac.kr)), Daejeon, South Korea.
+- *2010-2012*: **M.S.** in Mechanical Engineering. Ulsan National Institute of Science and Technology ([UNIST](http://www.unist.ac.kr/)), Ulsan, South Korea.
+- *2002-2010*: **B.S.** in Mechanical Engineering. Pukyung National University ([PKNU](http://www.pknu.ac.kr/)), Busan, South Korea.
+
+## Bio
+I have over 7 years of experience in bioinformatics and machine learning. In the meantime, I managed 'Multi-Component and Multi-Target (MCMT) drug discovery from Traditional Korean Medicine' project and initiated 'Developing AI model for cancer drug discovery' projects for Synergistic Bioinformatics Lab at KAIST. I managed databases related to the bioinformatic/chemoinformatic discovery and closely interact with experimental lab's members who verify prediction of biomarkers and candidate drugs. I designed computational methods to harmonize prior knowledge of disease gene, biological network, disease mechanism associated gene sets and gene expression datasets of patient/model organisms. I managed CPU/GPU clusters to perform high-performance computing (HPC) too. 
+
+My major research topic for MCMT project is developing computational methods to optimize gene expression marker set to explain clinical and model organism responses at the same time, by utilizing the prior knowledge related to the disease mechanisms. I have co-authored several patents and peer-reviewed articles related to bioinformatics and machine/deep learning. For bioinformatic applications, I studied gene expression based prognostic model development, assay oriented marker set optimization, drug-target interaction prediction and drug repurposing. I'm also interested in applying statistial/machine/deep learning in various other topics such as application of overlap statistics, sequence based protein classification, protein-protein interaction prediction, spectral signal processing including ElectroEncehpaloGraphy (EEG) and Surface Enhanced Raman Spectroscopy (SERS).
+
+
+### Selected Publications
+- **Seongyong Park**, Gwansu Yi. Development of Gene Expression-Based Random Forest Model for Predicting Neoadjuvant Chemotherapy Response in Triple-Negative Breast Cancer Cancers. Febrary, 2022 [online](https://www.mdpi.com/2072-6694/14/4/881)
+- **Seongyong Park**, Jaeseok Lee, Shujaat Khan, Abdul Wahab, Minseok Kim. SERSNet: Surface Enhanced Raman Spectroscopy based Bio-Molecule Detection using Deep Neural Network. Biosensors, November, 2021 [online](https://www.mdpi.com/2079-6374/11/12/490)
+- **Seongyong Park**, Jaeseok Lee, Shujaat Khan, Abdul Wahab, Minseok Kim. Machine Learning-based Heavy Metal Ion Detection Using Surface-Enhanced Raman Spectroscopy. Sensors, January, 2022 [online](https://www.mdpi.com/1424-8220/22/2/596)
+- Muhammad Usman, Shujaat Khan, **Seongyong Park**, Abdul Wahab. AFP-SRC: Identification of Antifreeze Proteins Using Sparse Representation Classifier. Neural Computing and Applications (NCA), September. 2021 [online](http://link.springer.com/article/10.1007/s00521-021-06558-7)
+- Muhammad Usman, Shujaat Khan, **Seongyong Park**, Jeong-A Lee. AoP-LSE: Antioxidant Proteins Classification Using Deep Latent Space Encoding of Sequence Features. Current Issues in Molecular Biology: (Bioinformatics and Systems Biology section), October. 2021 [online](https://www.mdpi.com/1467-3045/43/3/105)
+- Yoon Hyeok Lee, Hojae Choi, **Seongyong Park**, Boah Lee, Gwansu Yi. Drug repositioning for enzyme modulator based on human metabolite-likeness. BMC Bioinformatics, May, 2017 [online](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1637-5)
+- Sung Min Kim, **Seongyong Park**, Jong Won Hong, Eu Jean Jang, Chun Ho Pak. Psychophysiological Effects of Orchid and Rose Fragrances on Humans. Hortic Sci Technol, June,2016 [online](https://doi.org/10.12972/kjhst.20160048)
+
+
+### Patent
+- Bumki Min, Gwansu Yi and **Seongyong Park**. System and method for disease prediction based on group marker consisting of genes having similar function. KR Patent 1022361940000, App 1020200145453, issued Mar 30, 2021 [online](http://doi.org/10.8080/1020200145453?urlappend=en)
+
+
+
 
 <!--
 - [ORCID](https://orcid.org/0000-0002-4073-3490)
 - [Publons](https://publons.com/researcher/3743010/edouard-duchesnay/)
 - [Zotero](https://www.zotero.org/edouard.duchesnay)
-- [Google Scholar](https://scholar.google.fr/citations?hl=fr&user=mG6V3q4AAAAJ&view_op=list_works&sortby=pubdate)
 - [Habilitation thesis in pdf](https://raw.github.com/duchesnay/data/master/pdf/hdr_educhesnay.pdf)
 
-## Experience
-- *2008-now*: **Research Scientist** at [NeuroSpin](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx), [CEA](http://www.cea.fr/english), Université Paris-Saclay, France.
-- *2005-2008*: **R&D Engineer** in the [INSERM Research Unit -"Neuroimaging and Psychiatry"](http://www.inserm-u1000.u-psud.fr), Orsay, France.
-- *2003-2004*: **Postdoctoral** position at CEA, Orsay, France.
-- *2002*: **Software Engineer** at MBD.A (Matra BAe Dynamics,IEEE style
- EADS company) Velizy, contract for ASTEK company, France.
-- *2001-2002*: **Teaching and Research Assistant** at [Rennes 1 University](https://english.univ-rennes1.fr), France.
 
 ## Education
 
@@ -165,14 +192,14 @@ I deliver lectures on machine learning/statistics in:
 -   *2014*: Clémence Pinaud, Engineer trainee. C Pinaud is now engineer at [Dreems](https://dreem.com), Paris.
 -   *2013-2014*: Jinpeng Li, Research Engineer. Jinpeng Li, Research Engineer. J. Li is now data scientist at Alibaba Cloud.
 
-{% include base_path %}
+{% include base_path %
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts </h3>
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+{% for post in paginator.posts %
+  {% include archive-single.html %
+{% endfor %
 
-{% include paginator.html %}
+{% include paginator.html %
 
 -->
