@@ -52,3 +52,7 @@ My major research topic for MCMT project is developing computational methods to 
 ### Patent
 - Bumki Min, Gwansu Yi and **Seongyong Park**. System and method for disease prediction based on group marker consisting of genes having similar function. KR Patent 1022361940000, App 1020200145453, issued Mar 30, 2021 [online](http://doi.org/10.8080/1020200145453?urlappend=en)
 
+
+### Presentation
+- BIBM, 2020
+<iframe width="480" height="360" src="https://www.dropbox.com/s/y4mz7q2qvbhih2x/201216-GSSMD-BIBM2020-v3.mp4?dl=0" frameborder="0"> </iframe>
