@@ -9,14 +9,30 @@ permalink: /research/
 [Google Scholar](https://scholar.google.com/citations?user=3GelV-YAAAAJ&hl=en)
 
 ## Boosting Prior Knowledge in Machine Learning for Biomarker Discovery
+
+
+
 ### Disease Mechanism Marker Prioritization for Classification (DMMOC)
+
+
+
 ### Disease Mechanism Subgroup Identification by Iterative Error Estimation (DMSDIE)
 
+
+
 ## Self-Supervised Learning for reproducible research
+
+
 ### Minimum Variance Representation Learning (MVNet)
 
+
+
 ## Sparse Promoting Deep Learning
+
+
 ### Deep Latent Space Encoding (DeepLSE)
+
+
 ### Deep Sparse Reconstruction Classifier (DeepSRC)
 
 

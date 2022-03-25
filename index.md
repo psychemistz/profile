@@ -23,13 +23,13 @@ Machine Learning -- Statistics -- Bioinformatics -- Scientific computing -- Data
 
 
 ## Experience
-- *2015-now*: **Ph.D. Resaerch Scholar** at Synergistic Bioinformatics ([SynBI](https://synbi.kaist.ac.kr/)) Lab, KAIST., South Korea.
-- *2014-2015*: **Researcher** at Synergistic Bioinformatics ([SynBI](https://synbi.kaist.ac.kr/)) Lab, KAIST., South Korea.
+- *2015-now*: **Ph.D. Resaerch Scholar** at [Synergistic Bioinformatics Lab](https://synbi.kaist.ac.kr/), KAIST., South Korea.
+- *2014-2015*: **Researcher** at [Synergistic Bioinformatics Lab (https://synbi.kaist.ac.kr/), KAIST., South Korea.
 - *2012-2014*: **Researcher** at [Biobrain Inc.](https://biobrain.kr/), South Korea.
 - *2012*: **Researcher** at Planning and Evaluation Office, Korea Institute of Energy Technology Evaluation and Planning ([KETEP](https://www.ketep.re.kr/)), South Korea.
 
 ## Education
-- *2015-now*: **Ph.D.** in Bioinformatics at Korean Advanced Institute of Science and Technology ([KAIST](http://www.kaist.ac.kr)), Daejeon, South Korea.
+- *2015-now*: **Ph.D.** in Bio and Brain Engineering at Korean Advanced Institute of Science and Technology ([KAIST](http://www.kaist.ac.kr)), Daejeon, South Korea.
 - *2010-2012*: **M.S.** in Mechanical Engineering. Ulsan National Institute of Science and Technology ([UNIST](http://www.unist.ac.kr/)), Ulsan, South Korea.
 - *2002-2010*: **B.S.** in Mechanical Engineering. Pukyung National University ([PKNU](http://www.pknu.ac.kr/)), Busan, South Korea.
 
