@@ -76,7 +76,7 @@ In many biological applications, the large number of features often makes it dif
 
 Deep Latent Space Encoding model has an ability to learn the non-linear embedding of the features whilst maintaining the properties of the original features through reconstruction. This consistency helps filter out fluctuating data points by evaluating their distance from the class centers. As a result, the model can be an important tool for designing a classifier with noisy annotations. Another advantage of using such configuration is the elimination of the need of a crucial step of feature engineering, which involves the selection of dominant features for the training of classifier. We applied DeepLSE models for several applications such as classification of Anti-Freeze Protein (AFP), Anti-Oxidant Protein (AOP), E3 and Target Pair Prediction (E3TargetPred), and Anti-Cancer Peptide (ACP) prediction tasks.
 
-![Figure4. Latent Visualization for E3TargetPred Model](/profile/images/e3targetpred_latent.png)
+![Figure6. Latent Visualization for E3TargetPred Model](/profile/images/e3targetpred_latent.png)
 
 <p><strong> Latent Visualization for E3TargetPred Model </strong></p>
 
@@ -96,13 +96,22 @@ Sparse Representation based Classification (SRC) framwork is based on a parsimon
 --
 
 ## Ovelap Statistics and its applications
-
-
+Distribution overlap between two probability distributions are fundamental effect size measure for binary classification task. I and my collagures utilized overlap statistics as a metric for evaluating data and model in various applications, such as bioassay, differential expression/activity analysis, data/model quality assessment tasks. 
 
 ### Ovltools: an R package for estimation of arbitrary distribution overlap
+ovltools designed to provide some of functions that can calculate distribution overlap between two numeric vectors. It also provides significance testing based on permutation, to assess whether given sample distributions are drawn from the same distribution or not. Current version of ovltools provides KNN (K-Nearest Neighbor), KDE (Kernel Density Estimation), histogram, distribution fitting based overlap estimation methods.
+
+![Figure7. Ovltools R package hompage](/profile/images/ovltools.jpg)
+
+<p><strong> Ovltools R package hompage </strong></p>
+
 
 ### GMDM: Generalized Multi-Dimensional overlap Metric
+In this paper, we extended the idea of one-dimensional overlap coefficient into a multidimensional overlap metric coined as generalized multi-dimensional distribution overlap metric (GMDM). We apply the GMDM to evaluate the quality of the style-transfer model trained in an unsupervised fashion, for a denoising model trained in a supervised fashion, and the class separability of different image datasets. We also apply the GMDM to assess the classifiability of different protein sequence encoding schemes for the antioxidant protein classification problem. 
 
+![Figure8. Schematic Diagram of GMDM](/profile/images/gmdm.png)
+
+<p><strong> Schematic Diagram of GMDM </strong></p>
 
 
 <!--
