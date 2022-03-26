@@ -10,16 +10,16 @@ date:
 
 Design of machine learning and statistical models to discover predictive signatures of cancer and other diseases
 
-## Keywords
 
+## Keywords
 Machine Learning -- Statistics -- Bioinformatics -- Scientific computing -- Data management
 
-## Links
 
-- [Github](https://github.com/psychemistz)
-- [Course: Biomedical statistics & statistical learning, 2018](https://psychemistz.github.io/bis335-2018/)
+## Links
 - [Curriculum Vitae in pdf](https://raw.githubusercontent.com/psychemistz/profile/master/files/pdf/cv.pdf)
 - [Google Scholar](https://scholar.google.com/citations?user=3GelV-YAAAAJ&hl=en)
+- [Github](https://github.com/psychemistz)
+- [Course: Biomedical statistics & statistical learning, 2018](https://psychemistz.github.io/bis335-2018/)
 
 
 ## Experience
@@ -28,10 +28,12 @@ Machine Learning -- Statistics -- Bioinformatics -- Scientific computing -- Data
 - *2012-2014*: **Researcher** at [Biobrain Inc.](https://biobrain.kr/), South Korea.
 - *2012*: **Researcher** at Planning and Evaluation Office, Korea Institute of Energy Technology Evaluation and Planning ([KETEP](https://www.ketep.re.kr/)), South Korea.
 
+
 ## Education
 - *2015-now*: **Ph.D.** in Bio and Brain Engineering at Korean Advanced Institute of Science and Technology ([KAIST](http://www.kaist.ac.kr)), Daejeon, South Korea.
 - *2010-2012*: **M.S.** in Mechanical Engineering. Ulsan National Institute of Science and Technology ([UNIST](http://www.unist.ac.kr/)), Ulsan, South Korea.
 - *2002-2010*: **B.S.** in Mechanical Engineering. Pukyung National University ([PKNU](http://www.pknu.ac.kr/)), Busan, South Korea.
+
 
 ## Bio
 I have over 7 years of experience in bioinformatics and machine learning. In the meantime, I managed *Multi-Component and Multi-Target (MCMT) drug discovery from Traditional Korean Medicine* project and initiated *Developing AI model for cancer drug discovery* projects for Synergistic Bioinformatics Lab at KAIST. I managed databases related to the bioinformatic/chemoinformatic discovery and closely interact with members of experimental labs who verify prediction of biomarkers and candidate drugs. I designed computational methods to harmonize prior knowledge of disease gene, biological network, disease mechanism associated gene sets and gene expression datasets of patient/model organisms. I managed CPU/GPU clusters to perform high-performance computing (HPC) too. 
