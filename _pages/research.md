@@ -35,22 +35,44 @@ Figure 2 shows performance evaluation result of DGP4C algorithm in Neo-Adjuvant 
 
 ### Disease Mechanism Subgroup Identification by Iterative Error Estimation (DMSDIE)
 
+### Random Subsample Subspace Ensemble (RDSE)
+
+
 
 ## Self-Supervised Learning for reproducible research
-
+The self-supervised Learning (SSL) is defined as a machine learning strategy that can be supervised by the transformed training features rather than labels. Self-supervised learning is especially useful when the measurement or labeling process involves uncertainty. In biomedical dataset as well as biosignal processing, many problems can be formulated as self-supervised learning problems. 
 
 ### Minimum Variance Representation Learning (MVNet)
 
 
 
-## Sparse Promoting Deep Learning
 
+## Sparse Representation Learning
 
 ### Deep Latent Space Encoding (DeepLSE)
 
-
 ### Deep Sparse Reconstruction Classifier (DeepSRC)
 
+
+
+## Ovelap Statistics and its applications
+
+### Ovltools: an R package for estimation of arbitrary distribution overlap
+
+### GMDM: Generalized Multi-Dimensional overlap Metric
+
+
+
+<!--
+## Generative Adversarial Network (GAN) for Biomedical Signal Processing Applications
+
+### Batch-effect Minimization Network (BatchGAN)
+
+### Platform Transformer Network (PTN)
+
+### Drug Response Prediction using Adaptive Instance Normalization (DRAdaIN)
+
+-->
 
 <!--
 The use of machine-learning in neuroimaging offers new perspectives in early diagnosis and prognosis of brain diseases. However, algorithms should provide interpretable solutions. Biomarkers identification based on neuroimaging require new algorithms that exploit the natural spatial structure of the brain images.
