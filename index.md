@@ -41,7 +41,7 @@ I have over 7 years of experience in bioinformatics and machine learning. In the
 My major research topic for MCMT project is developing computational methods to optimize gene expression marker set to explain clinical and model organism responses at the same time, by utilizing the prior knowledge related to the disease mechanisms. I have co-authored several patents and peer-reviewed articles related to bioinformatics and machine/deep learning. For bioinformatic applications, I studied gene expression based prognostic model development, assay oriented marker set optimization, drug-target interaction prediction and drug repurposing. I'm also interested in applying statistial/machine/deep learning in various other topics such as application of overlap statistics, sequence based protein classification, protein-protein interaction prediction, spectral signal processing including ElectroEncehpaloGraphy (EEG) and Surface Enhanced Raman Spectroscopy (SERS).
 
 
-### Selected Publications
+## Selected Publications
 - **Seongyong Park**, Gwansu Yi. Development of Gene Expression-Based Random Forest Model for Predicting Neoadjuvant Chemotherapy Response in Triple-Negative Breast Cancer Cancers. Febrary, 2022 [online](https://www.mdpi.com/2072-6694/14/4/881)
 - **Seongyong Park**, Jaeseok Lee, Shujaat Khan, Abdul Wahab, Minseok Kim. SERSNet: Surface Enhanced Raman Spectroscopy based Bio-Molecule Detection using Deep Neural Network. Biosensors, November, 2021 [online](https://www.mdpi.com/2079-6374/11/12/490)
 - **Seongyong Park**, Jaeseok Lee, Shujaat Khan, Abdul Wahab, Minseok Kim. Machine Learning-based Heavy Metal Ion Detection Using Surface-Enhanced Raman Spectroscopy. Sensors, January, 2022 [online](https://www.mdpi.com/1424-8220/22/2/596)
@@ -51,11 +51,13 @@ My major research topic for MCMT project is developing computational methods to 
 - Sung Min Kim, **Seongyong Park**, Jong Won Hong, Eu Jean Jang, Chun Ho Pak. Psychophysiological Effects of Orchid and Rose Fragrances on Humans. Hortic Sci Technol, June,2016 [online](https://doi.org/10.12972/kjhst.20160048)
 
 
-### Patent
+## Patents
 - Bumki Min, Gwansu Yi and **Seongyong Park**. System and method for disease prediction based on group marker consisting of genes having similar function. KR Patent 1022361940000, App 1020200145453, issued Mar 30, 2021 [online](http://doi.org/10.8080/1020200145453?urlappend=en)
 
+- Taesung Kim and **Seongyong Park**. Microfluidic concentrator array for observing predation behavior of microbes.KR. Patent 1012385560000, App. 1020100110945, issued Febrary 22, 2013. [online](https://doi.org/10.8080/1020100110945?urlappend=en)
+    
 
-### Presentation
+## Presentations
 - BIBM, Online, 2020
 <iframe width="1664" height="701" src="https://www.youtube.com/embed/Vk6z-_TnVuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
