@@ -84,6 +84,10 @@ The figure above shows learned latent space for classification of E3-target pair
 
 
 ### Deep Sparse Reconstruction Classifier (DeepSRC)
+![Figure7. DeepSRC Model](/profile/images/e3targetpred_latent.png)
+
+<p><strong> Schematic Illustration of DeepSRC Model </strong></p>
+
 Sparse Representation based Classification (SRC) framwork is based on a parsimonious principle in which a test sample can be reconstructed using a linear combination of over-complete dictionary matrix (ODM) elements with sparse weights. It is very robust to redundancy, because it only selects a few among all of the basis vectors. It is also very robust to noise. The DeepSRC is an autoencoder-based neural network approach that mimics the conventional SRC approach. In particular, it is composed of an encoder, a sparse coding layer, and a decoder to learn sparse representation from original features. 
 
 
