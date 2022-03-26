@@ -20,6 +20,11 @@ Disease gene prioritization methods such as network propagation and similarity p
 
 Figure 1 provides a schematic diagram of the proposed DGP4C framework. The algorithm begins finding candidate disease genes using a disease gene prioritization method based on a combination of disease gene scores calculated from network propagation and function similarity profiling. The feature importance of candidate disease genes for disease phenotype classification is then assessed and important candidate genes are fed back to the gene prioritization step to update candidate disease genes until no additional disease gene candidates are found.
 
+![Figure2. Performance Assessment of Disease Gene Prioritization for Classification (DGP4C) Framework](/image/dgp4c_result.png)
+
+Figure 2 shows performance evaluation result of DGP4C algorithm in Neo-Adjuvant Chemotherapy (NAC) response prediction in breast cancer. As expected, DGP4C showed best performance compared to all other non-iterative approach to optimize gene expression markerset. 
+
+
 ### Disease Mechanism Subgroup Identification by Iterative Error Estimation (DMSDIE)
 
 
