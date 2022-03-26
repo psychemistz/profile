@@ -11,8 +11,7 @@ permalink: /research/
 ## Boosting Prior Knowledge in Machine Learning for Biomarker Discovery
 The so-called **small n, large p** problem makes learning classification or regression models difficult for biomedical applications. In such a problem especially in clinical dataset, adding samples is not easy so feature selection or embedding techniques should be used to reduce the number of features *p*. Prior knowledge is fundamentally important and relevant information that can provide an efficient way to regularize the number of features for training machine learning models. Because these knowledge comes from accumulated studies of various biological systems, it is also applicable to patients and model organisms.
 
-
-In this study, we tried to prevent overfitting of the model and improve the robustness of the model by iteratively querying the appropriateness of the features for each training process.
+In this study, we tried to prevent overfitting of the model and improve the robustness of the model by iteratively querying the appropriateness of the features for each model training process.
 
 ### Disease Mechanism Marker Prioritization for Classification (DMMOC)
 
