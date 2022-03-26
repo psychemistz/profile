@@ -20,13 +20,13 @@ Disease gene prioritization methods such as network propagation and similarity p
 
 ![Figure1. Schematic of Disease Gene Prioritization for Classification (DGP4C) Framework](/profile/images/dgp4c.jpg)
 
-<p><strong> Schematic of Disease Gene Prioritization for Classification (DGP4C) Framework </strong></p>
+<center><strong> Schematic of Disease Gene Prioritization for Classification (DGP4C) Framework </strong></center>
 
 Figure 1 provides a schematic diagram of the proposed DGP4C framework. The algorithm begins finding candidate disease genes using a disease gene prioritization method based on a combination of disease gene scores calculated from network propagation and function similarity profiling. The feature importance of candidate disease genes for disease phenotype classification is then assessed and important candidate genes are fed back to the gene prioritization step to update candidate disease genes until no additional disease gene candidates are found.
 
 ![Figure2. Performance Assessment of Disease Gene Prioritization for Classification (DGP4C) Framework](/profile/images/dgp4c_result.jpg)
 
-<p><strong> Performance Assessment of Disease Gene Prioritization for Classification (DGP4C) Framework </strong></p>
+<center><strong> Performance Assessment of Disease Gene Prioritization for Classification (DGP4C) Framework </strong></center>
 
 
 
@@ -51,7 +51,7 @@ In this study, we tried to develop applicatin specific self-supervised learning 
 ### Minimum Variance Representation Learning (MVNet)
 ![Figure3. Minimum Variance Network (MVNet) based SERS Signal Processing Pipeline](/profile/images/mvnet.png)
 
-<p><strong> Minimum Variance Network (MVNet) based SERS Signal Processing Pipeline </strong></p>
+<center><strong> Minimum Variance Network (MVNet) based SERS Signal Processing Pipeline </strong></center>
 
 Despite the numerous advantages of surface enhanced Raman spectroscopy (SERS), it is still considered to be poorly reproducible and not a sufficiently robust analytical technique for routine implementation outside of academia. Here, we propose a self-supervised learning model for minimizing inter-laboratory variability in quantitative SERS measurements coined as MVNet. The proposed MVNet is designed to generate minimum variance SERS spectra of the same target analyte from various laboratory data while maintaining the characteristics of the original spectra. By comparing the regression performance of the generated and original SERS spectra, we showed that the proposed model can reduce interlaboratory variability while improve regression performance. 
 
@@ -59,7 +59,7 @@ Despite the numerous advantages of surface enhanced Raman spectroscopy (SERS), i
 ### Sparse Subsample based Gene Expression Reconstruction
 ![Figure4. Sparse Subsample based Gene Expression Reconstuction Network](/profile/images/ssrecon.png)
 
-<p><strong> Gene Expresssion Reconstruction Network based on Sparse Subsampling </strong></p>
+<center><strong> Gene Expresssion Reconstruction Network based on Sparse Subsampling </strong></center>
 
 Cells do not express genes individually, but as a set of individual programs, and each cell expresses only a limited number of programs at a time. Due to these modular and sparse gene expression properties, it is possible to reconstruct whole gene expression vectors from subsamples of some genes. Here, we proposed a Convolutional Neural Network (CNN) model to reconstruct gene expression. The proposed model has a U-Net-like structure, includes encoding and decoding parts corresponding to transformations and inverse transformations of the data, and learns how to minimize reconstruction errors under given sparsity conditions through training. Using only 10% of the original data, this model was able to achieve 0.86 PCC values comparable to state-of-the-art gene expression reconstruction models.
 
@@ -72,13 +72,13 @@ In many biological applications, the large number of features often makes it dif
 ### Deep Latent Space Encoding (DeepLSE)
 ![Figure5. Architecture of E3TargetPred](/profile/images/e3targetpred.png)
 
-<p><strong> Architecture of E3TargetPred </strong></p>
+<center><strong> Architecture of E3TargetPred </strong></center>
 
 Deep Latent Space Encoding model has an ability to learn the non-linear embedding of the features whilst maintaining the properties of the original features through reconstruction. This consistency helps filter out fluctuating data points by evaluating their distance from the class centers. As a result, the model can be an important tool for designing a classifier with noisy annotations. Another advantage of using such configuration is the elimination of the need of a crucial step of feature engineering, which involves the selection of dominant features for the training of classifier. We applied DeepLSE models for several applications such as classification of Anti-Freeze Protein (AFP), Anti-Oxidant Protein (AOP), E3 and Target Pair Prediction (E3TargetPred), and Anti-Cancer Peptide (ACP) prediction tasks.
 
 ![Figure6. Latent Visualization for E3TargetPred Model](/profile/images/e3targetpred_latent.png)
 
-<p><strong> Latent Visualization for E3TargetPred Model </strong></p>
+<center><strong> Latent Visualization for E3TargetPred Model </strong></center>
 
 The figure above shows learned latent space for classification of E3-target pairs and non E3-target pairs. This visualization clearly shows that the model effectively learn low-dimensional represnetation for classification between actual E3-target pairs and Non-E3-target pairs. 
 
@@ -86,7 +86,7 @@ The figure above shows learned latent space for classification of E3-target pair
 ### Deep Sparse Reconstruction Classifier (DeepSRC)
 ![Figure7. DeepSRC Model](/profile/images/e3targetpred_latent.png)
 
-<p><strong> Schematic Illustration of DeepSRC Model </strong></p>
+<center><strong> Schematic Illustration of DeepSRC Model </strong></center>
 
 Sparse Representation based Classification (SRC) framwork is based on a parsimonious principle in which a test sample can be reconstructed using a linear combination of over-complete dictionary matrix (ODM) elements with sparse weights. It is very robust to redundancy, because it only selects a few among all of the basis vectors. It is also very robust to noise. The DeepSRC is an autoencoder-based neural network approach that mimics the conventional SRC approach. In particular, it is composed of an encoder, a sparse coding layer, and a decoder to learn sparse representation from original features. 
 
@@ -107,7 +107,7 @@ ovltools designed to provide some of functions that can calculate distribution o
 
 ![Figure7. Ovltools R package hompage](/profile/images/ovltools.jpg)
 
-<p><strong> Ovltools R package hompage </strong></p>
+<center><strong> Ovltools R package hompage </strong></center>
 
 
 ### GMDM: Generalized Multi-Dimensional overlap Metric
@@ -115,7 +115,7 @@ In this paper, we extended the idea of one-dimensional overlap coefficient into 
 
 ![Figure8. Schematic Diagram of GMDM](/profile/images/gmdm.png)
 
-<p><strong> Schematic Diagram of GMDM </strong></p>
+<center><strong> Schematic Diagram of GMDM </strong></center>
 
 
 <!--
