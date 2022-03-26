@@ -49,19 +49,19 @@ The self-supervised Learning (SSL) is defined as a machine learning strategy tha
 In this study, we tried to develop applicatin specific self-supervised learning models for improving reproducibility of specific applications.
 
 ### Minimum Variance Representation Learning (MVNet)
+Despite the numerous advantages of surface enhanced Raman spectroscopy (SERS), it is still considered to be poorly reproducible and not a sufficiently robust analytical technique for routine implementation outside of academia. Here, we propose a self-supervised learning model for minimizing inter-laboratory variability in quantitative SERS measurements coined as MVNet. The proposed MVNet is designed to generate minimum variance SERS spectra of the same target analyte from various laboratory data while maintaining the characteristics of the original spectra. By comparing the regression performance of the generated and original SERS spectra, we showed that the proposed model can reduce interlaboratory variability while improve regression performance. 
+
 ![Figure3. Minimum Variance Network (MVNet) based SERS Signal Processing Pipeline](/profile/images/mvnet.png)
 
 <p><center><strong> Minimum Variance Network (MVNet) based SERS Signal Processing Pipeline </strong></center></p>
 
-Despite the numerous advantages of surface enhanced Raman spectroscopy (SERS), it is still considered to be poorly reproducible and not a sufficiently robust analytical technique for routine implementation outside of academia. Here, we propose a self-supervised learning model for minimizing inter-laboratory variability in quantitative SERS measurements coined as MVNet. The proposed MVNet is designed to generate minimum variance SERS spectra of the same target analyte from various laboratory data while maintaining the characteristics of the original spectra. By comparing the regression performance of the generated and original SERS spectra, we showed that the proposed model can reduce interlaboratory variability while improve regression performance. 
-
 
 ### Sparse Subsample based Gene Expression Reconstruction
+Cells do not express genes individually, but as a set of individual programs, and each cell expresses only a limited number of programs at a time. Due to these modular and sparse gene expression properties, it is possible to reconstruct whole gene expression vectors from subsamples of some genes. Here, we proposed a Convolutional Neural Network (CNN) model to reconstruct gene expression. The proposed model has a U-Net-like structure, includes encoding and decoding parts corresponding to transformations and inverse transformations of the data, and learns how to minimize reconstruction errors under given sparsity conditions through training. Using only 10% of the original data, this model was able to achieve 0.86 PCC values comparable to state-of-the-art gene expression reconstruction models.
+
 ![Figure4. Sparse Subsample based Gene Expression Reconstuction Network](/profile/images/ssrecon.png)
 
 <p><center><strong> Gene Expresssion Reconstruction Network based on Sparse Subsampling </strong></center></p>
-
-Cells do not express genes individually, but as a set of individual programs, and each cell expresses only a limited number of programs at a time. Due to these modular and sparse gene expression properties, it is possible to reconstruct whole gene expression vectors from subsamples of some genes. Here, we proposed a Convolutional Neural Network (CNN) model to reconstruct gene expression. The proposed model has a U-Net-like structure, includes encoding and decoding parts corresponding to transformations and inverse transformations of the data, and learns how to minimize reconstruction errors under given sparsity conditions through training. Using only 10% of the original data, this model was able to achieve 0.86 PCC values comparable to state-of-the-art gene expression reconstruction models.
 
 
 ---
@@ -69,24 +69,19 @@ Cells do not express genes individually, but as a set of individual programs, an
 In many biological applications, the large number of features often makes it difficult to build a good performing classification model. Here, I and my colleagues introduced and characterized several sparsity promoting deep learning models to learn low-dimensional representations for use in downstream tasks. As an application, we applied our model for sequence based protein classification and protein-protein interaction prediction tasks. 
 
 ### Deep Latent Space Encoding (DeepLSE)
-![Figure5. Architecture of E3TargetPred](/profile/images/e3targetpred.png)
-<p><center><strong> Architecture of E3TargetPred </strong></center></p>
-
-Deep Latent Space Encoding model has an ability to learn the non-linear embedding of the features whilst maintaining the properties of the original features through reconstruction. This consistency helps filter out fluctuating data points by evaluating their distance from the class centers. As a result, the model can be an important tool for designing a classifier with noisy annotations. Another advantage of using such configuration is the elimination of the need of a crucial step of feature engineering, which involves the selection of dominant features for the training of classifier. We applied DeepLSE models for several applications such as classification of Anti-Freeze Protein (AFP), Anti-Oxidant Protein (AOP), E3 and Target Pair Prediction (E3TargetPred), and Anti-Cancer Peptide (ACP) prediction tasks.
+Deep Latent Space Encoding model has an ability to learn the non-linear embedding of the features whilst maintaining the properties of the original features through reconstruction. This consistency helps filter out fluctuating data points by evaluating their distance from the class centers. As a result, the model can be an important tool for designing a classifier with noisy annotations. Another advantage of using such configuration is the elimination of the need of a crucial step of feature engineering, which involves the selection of dominant features for the training of classifier. We applied DeepLSE models for several applications such as classification of Anti-Freeze Protein (AFP), Anti-Oxidant Protein (AOP), E3 and Target Pair Prediction (E3TargetPred), and Anti-Cancer Peptide (ACP) prediction tasks. The figure shows learned latent space for classification of E3-target pairs and non E3-target pairs. This visualization clearly shows that the model effectively learn low-dimensional represnetation for classification between actual E3-target pairs and Non-E3-target pairs. 
 
 ![Figure6. Latent Visualization for E3TargetPred Model](/profile/images/e3targetpred_latent.png)
-
 <p><center><strong> Latent Visualization for E3TargetPred Model </strong></center></p>
-
-The figure above shows learned latent space for classification of E3-target pairs and non E3-target pairs. This visualization clearly shows that the model effectively learn low-dimensional represnetation for classification between actual E3-target pairs and Non-E3-target pairs. 
 
 
 ### Deep Sparse Reconstruction Classifier (DeepSRC)
+Sparse Representation based Classification (SRC) framwork is based on a parsimonious principle in which a test sample can be reconstructed using a linear combination of over-complete dictionary matrix (ODM) elements with sparse weights. It is very robust to redundancy, because it only selects a few among all of the basis vectors. It is also very robust to noise. The DeepSRC is an autoencoder-based neural network approach that mimics the conventional SRC approach. In particular, it is composed of an encoder, a sparse coding layer, and a decoder to learn sparse representation from original features. 
+
 ![Figure7. DeepSRC Model](/profile/images/deepsrc.png)
 
 <p><center><strong> Schematic Illustration of DeepSRC Model </strong></center></p>
 
-Sparse Representation based Classification (SRC) framwork is based on a parsimonious principle in which a test sample can be reconstructed using a linear combination of over-complete dictionary matrix (ODM) elements with sparse weights. It is very robust to redundancy, because it only selects a few among all of the basis vectors. It is also very robust to noise. The DeepSRC is an autoencoder-based neural network approach that mimics the conventional SRC approach. In particular, it is composed of an encoder, a sparse coding layer, and a decoder to learn sparse representation from original features. 
 
 
 <!--
@@ -96,11 +91,12 @@ Sparse Representation based Classification (SRC) framwork is based on a parsimon
 
 ---
 ## Ovelap Statistics and its applications
+Distribution overlap between two probability distributions are fundamental effect size measure for binary classification task. I and my collagures utilized overlap statistics as a metric for evaluating data and model in various applications, such as bioassay, differential expression/activity analysis, data/model quality assessment tasks. 
+
 ![Figure8. Relationship between binary classifier and overlap statistics](/profile/images/overlap.png)
 
 <p><center><strong> Relationship between binary classifier and overlap statistics </strong></center></p>
 
-Distribution overlap between two probability distributions are fundamental effect size measure for binary classification task. I and my collagures utilized overlap statistics as a metric for evaluating data and model in various applications, such as bioassay, differential expression/activity analysis, data/model quality assessment tasks. 
 
 ### Ovltools: an R package for estimation of arbitrary distribution overlap
 ovltools designed to provide some of functions that can calculate distribution overlap between two numeric vectors. It also provides significance testing based on permutation, to assess whether given sample distributions are drawn from the same distribution or not. Current version of ovltools provides KNN (K-Nearest Neighbor), KDE (Kernel Density Estimation), histogram, distribution fitting based overlap estimation methods.
