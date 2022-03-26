@@ -16,17 +16,18 @@ In this study, we tried to prevent overfitting of the model and improve the robu
 ### Disease Gene Prioritization for Classification (DGP4C)
 Disease gene prioritization methods such as network propagation and similarity profiling have been used to prioritize candidate disease genes for experimental validation. However, it is not clear whether these disease gene prioritization methods can be used as feature selection techniques for gene expression-based disease classification models. In this study, we developed and validated a method for prioritizing disease genes that shows high importance for the classification of disease phenotypes. 
 
-![Figure1. Schematic of Disease Gene Prioritization for Classification (DGP4C) Framework](https://github.com/psychemistz/profile/blob/master/images/dgp4c.png?raw=true)
+
+
+![Figure1. Schematic of Disease Gene Prioritization for Classification (DGP4C) Framework](https://github.com/psychemistz/profile/blob/master/images/dgp4c.png)
 
 Figure 1 provides a schematic diagram of the proposed DGP4C framework. The algorithm begins finding candidate disease genes using a disease gene prioritization method based on a combination of disease gene scores calculated from network propagation and function similarity profiling. The feature importance of candidate disease genes for disease phenotype classification is then assessed and important candidate genes are fed back to the gene prioritization step to update candidate disease genes until no additional disease gene candidates are found.
 
-![Figure2. Performance Assessment of Disease Gene Prioritization for Classification (DGP4C) Framework](https://github.com/psychemistz/profile/blob/master/images/dgp4c_result.png?raw=true)
+![Figure2. Performance Assessment of Disease Gene Prioritization for Classification (DGP4C) Framework](https://github.com/psychemistz/profile/blob/master/images/dgp4c_result.png)
 
 Figure 2 shows performance evaluation result of DGP4C algorithm in Neo-Adjuvant Chemotherapy (NAC) response prediction in breast cancer. As expected, DGP4C showed best performance compared to all other non-iterative approach to optimize gene expression markerset. 
 
 
 ### Disease Mechanism Subgroup Identification by Iterative Error Estimation (DMSDIE)
-In 
 
 
 ## Self-Supervised Learning for reproducible research
