@@ -83,7 +83,7 @@ The figure above shows learned latent space for classification of E3-target pair
 
 
 ### Deep Sparse Reconstruction Classifier (DeepSRC)
-![Figure7. DeepSRC Model](/profile/images/e3targetpred_latent.png)
+![Figure7. DeepSRC Model](/profile/images/deepsrc.png)
 
 <center><strong> Schematic Illustration of DeepSRC Model </strong></center>
 
@@ -97,20 +97,24 @@ Sparse Representation based Classification (SRC) framwork is based on a parsimon
 
 ---
 ## Ovelap Statistics and its applications
+![Figure8. Relationship between binary classifier and overlap statistics](/profile/images/overlap.png)
+
+<center><strong> Relationship between binary classifier and overlap statistics </strong></center>
+
 Distribution overlap between two probability distributions are fundamental effect size measure for binary classification task. I and my collagures utilized overlap statistics as a metric for evaluating data and model in various applications, such as bioassay, differential expression/activity analysis, data/model quality assessment tasks. 
 
 ### Ovltools: an R package for estimation of arbitrary distribution overlap
 ovltools designed to provide some of functions that can calculate distribution overlap between two numeric vectors. It also provides significance testing based on permutation, to assess whether given sample distributions are drawn from the same distribution or not. Current version of ovltools provides KNN (K-Nearest Neighbor), KDE (Kernel Density Estimation), histogram, distribution fitting based overlap estimation methods.
 
-![Figure7. Ovltools R package hompage](/profile/images/ovltools.jpg)
+![Figure9. Estimation of overlap between two normal distributions using ovltools](/profile/images/ovltools.png)
 
-<center><strong> Ovltools R package hompage </strong></center>
+<center><strong> Estimation of overlap between two normal distributions using ovltools </strong></center>
 
 
 ### GMDM: Generalized Multi-Dimensional overlap Metric
 In this paper, we extended the idea of one-dimensional overlap coefficient into a multidimensional overlap metric coined as generalized multi-dimensional distribution overlap metric (GMDM). We apply the GMDM to evaluate the quality of the style-transfer model trained in an unsupervised fashion, for a denoising model trained in a supervised fashion, and the class separability of different image datasets. We also apply the GMDM to assess the classifiability of different protein sequence encoding schemes for the antioxidant protein classification problem. 
 
-![Figure8. Schematic Diagram of GMDM](/profile/images/gmdm.png)
+![Figure10. Schematic Diagram of GMDM](/profile/images/gmdm.png)
 
 <center><strong> Schematic Diagram of GMDM </strong></center>
 
