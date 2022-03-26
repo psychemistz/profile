@@ -69,9 +69,9 @@ Cells do not express genes individually, but as a set of individual programs, an
 In many biological applications, the large number of features often makes it difficult to build a good performing classification model. Here, I and my colleagues introduced and characterized several sparsity promoting deep learning models to learn low-dimensional representations for use in downstream tasks. As an application, we applied our model for sequence based protein classification and protein-protein interaction prediction tasks. 
 
 ### Deep Latent Space Encoding (DeepLSE)
-![Figure5. Architecture of E3TargetPred](/profile/images/e3targetpred.png)
-
-<center><strong> Architecture of E3TargetPred </strong></center>
+|![Figure5. Architecture of E3TargetPred](/profile/images/e3targetpred.png)|
+|:--:| 
+|<center><strong> Architecture of E3TargetPred </strong></center>|
 
 Deep Latent Space Encoding model has an ability to learn the non-linear embedding of the features whilst maintaining the properties of the original features through reconstruction. This consistency helps filter out fluctuating data points by evaluating their distance from the class centers. As a result, the model can be an important tool for designing a classifier with noisy annotations. Another advantage of using such configuration is the elimination of the need of a crucial step of feature engineering, which involves the selection of dominant features for the training of classifier. We applied DeepLSE models for several applications such as classification of Anti-Freeze Protein (AFP), Anti-Oxidant Protein (AOP), E3 and Target Pair Prediction (E3TargetPred), and Anti-Cancer Peptide (ACP) prediction tasks.
 
