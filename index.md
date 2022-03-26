@@ -56,5 +56,8 @@ My major research topic for MCMT project is developing computational methods to 
 
 
 ### Presentation
-- BIBM, 2020
+- Biofusion Seminar, KAIST, Daejeon, 2019
+<iframe width="1004" height="753" src="https://www.youtube.com/embed/gbx698wTKX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- BIBM, Online, 2020
 <iframe width="1664" height="701" src="https://www.youtube.com/embed/Vk6z-_TnVuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
