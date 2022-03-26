@@ -39,6 +39,9 @@ Figure 2 shows performance evaluation result of DGP4C algorithm in Neo-Adjuvant 
 
 
 
+
+--
+
 ## Self-Supervised Learning for reproducible research
 The self-supervised Learning (SSL) is defined as a machine learning strategy that can be supervised by the transformed training features rather than labels. Self-supervised learning is especially useful when the measurement or labeling process involves uncertainty. In biomedical dataset as well as biosignal processing, many problems can be formulated as self-supervised learning problems. 
 
@@ -52,6 +55,7 @@ In this study, we tried to develop applicatin specific self-supervised learning 
 Despite the numerous advantages of surface enhanced Raman spectroscopy (SERS), it is still considered to be poorly reproducible and not a sufficiently robust analytical technique for routine implementation outside of academia. Here, we propose a self-supervised learning model for minimizing inter-laboratory variability in quantitative SERS measurements coined as MVNet. The proposed MVNet is designed to generate minimum variance SERS spectra of the same target analyte from various laboratory data while maintaining the characteristics of the original spectra. By comparing the regression performance of the generated and original SERS spectra, we showed that the proposed model can reduce interlaboratory variability while improve regression performance. 
 
 
+--
 
 ## Sparse Representation Learning
 
@@ -60,6 +64,7 @@ Despite the numerous advantages of surface enhanced Raman spectroscopy (SERS), i
 ### Deep Sparse Reconstruction Classifier (DeepSRC)
 
 
+--
 
 ## Ovelap Statistics and its applications
 
