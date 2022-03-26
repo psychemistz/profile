@@ -46,6 +46,7 @@ In this study, we tried to develop applicatin specific self-supervised learning 
 
 ### Minimum Variance Representation Learning (MVNet)
 ![Figure3. Minimum Variance Network (MVNet) based SERS Signal Processing Pipeline](/profile/images/mvnet.png)
+
 <p><strong> Minimum Variance Network (MVNet) based SERS Signal Processing Pipeline </strong></p>
 
 Despite the numerous advantages of surface enhanced Raman spectroscopy (SERS), it is still considered to be poorly reproducible and not a sufficiently robust analytical technique for routine implementation outside of academia. Here, we propose a self-supervised learning model for minimizing inter-laboratory variability in quantitative SERS measurements coined as MVNet. The proposed MVNet is designed to generate minimum variance SERS spectra of the same target analyte from various laboratory data while maintaining the characteristics of the original spectra. By comparing the regression performance of the generated and original SERS spectra, we showed that the proposed model can reduce interlaboratory variability while improve regression performance. 
