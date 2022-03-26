@@ -13,9 +13,12 @@ The so-called **small n, large p** problem makes learning classification or regr
 
 In this study, we tried to prevent overfitting of the model and improve the robustness of the model by iteratively querying the appropriateness of the features for each model training process.
 
-### Disease Mechanism Marker Prioritization for Classification (DMMOC)
+### Disease Gene Prioritization for Classification (DGP4C)
+Disease gene prioritization methods such as network propagation and similarity profiling have been used to prioritize candidate disease genes for experimental validation. However, it is not clear whether these disease gene prioritization methods can be used as feature selection techniques for gene expression-based disease classification models. In this study, we developed and validated a method for prioritizing disease genes that shows high importance for the classification of disease phenotypes. 
 
+![Figure1. Schematic of Disease Gene Prioritization for Classification (DGP4C) Framework](/image/dgp4c.png)
 
+Figure 1 provides a schematic diagram of the proposed DGP4C framework. The algorithm begins finding candidate disease genes using a disease gene prioritization method based on a combination of disease gene scores calculated from network propagation and function similarity profiling. The feature importance of candidate disease genes for disease phenotype classification is then assessed and important candidate genes are fed back to the gene prioritization step to update candidate disease genes until no additional disease gene candidates are found.
 
 ### Disease Mechanism Subgroup Identification by Iterative Error Estimation (DMSDIE)
 
