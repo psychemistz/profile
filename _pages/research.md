@@ -18,32 +18,31 @@ In this study, we tried to prevent overfitting of the model and improve the robu
 Disease gene prioritization methods such as network propagation and similarity profiling have been used to prioritize candidate disease genes for experimental validation. However, it is not clear whether these disease gene prioritization methods can be used as feature selection techniques for gene expression-based disease classification models. In this study, we developed and validated a method for prioritizing disease genes that shows high importance for the classification of disease phenotypes. 
 
 
+![Figure1. Schematic of Disease Gene Prioritization for Classification (DGP4C)](/profile/images/dgp4c.jpg)
 
-![Figure1. Schematic of Disease Gene Prioritization for Classification (DGP4C) Framework](/profile/images/dgp4c.jpg)
-
-<p><center><strong> Schematic of Disease Gene Prioritization for Classification (DGP4C) Framework </strong></center></p>
+<p><center><strong> Schematic of Disease Gene Prioritization for Classification (DGP4C) </strong></center></p>
 
 The above figure provides a schematic diagram of the proposed DGP4C framework. The algorithm begins finding candidate disease genes using a disease gene prioritization method based on a combination of disease gene scores calculated from network propagation and function similarity profiling. The feature importance of candidate disease genes for disease phenotype classification is then assessed and important candidate genes are fed back to the gene prioritization step to update candidate disease genes until no additional disease gene candidates are found.
 
-![Figure2. Performance Assessment of Disease Gene Prioritization for Classification (DGP4C) Framework](/profile/images/dgp4c_result.jpg)
+![Figure2. Performance Assessment of Disease Gene Prioritization for Classification (DGP4C)](/profile/images/dgp4c_result.jpg)
 
-<p><center><strong> Performance Assessment of DGP4C Framework </strong></center></p>
+<p><center><strong> Performance Assessment of DGP4C </strong></center></p>
 
 
 
 The figure shows performance evaluation result of DGP4C algorithm in Neo-Adjuvant Chemotherapy (NAC) response prediction in breast cancer. As expected, DGP4C showed best performance compared to all other non-iterative approach to optimize gene expression markerset. 
 
 
-### Disease Mechanism Marker Optimization for Classification Framework (DMMOC)
+### Disease Mechanism Marker Optimization for Classification (DMMOC)
 In many disease phenotype classification tasks, the identification of subgroups involved in disease mechanisms is an important subtask in understanding disease pathogenesis. unlike other studies that have used some clustering techniques to find subgroups, here we use iterative error estimation to find classifiable subgroups within a random feature subspace of mechanism associated feature space. For each important disease mechanism, we find associated sample sets to be used as dictionary for the new sample classification. This framework is called Disease Mechanism Marker Optimization for Classification (DMMOC) and the new test sample is classified by specific mechanism associated classifier which has higher probability of succesive classification for the test sample. 
 
-![Figure3. Minmum Error Subspace Learned by DMMOC Algorithm](/profile/images/dmmoc_result.png)
+![Figure3. Minmum Error Subspace Learned by DMMOC](/profile/images/dmmoc_result.png)
 
-<p><center><strong> Minmum Error Subspace Learned by DMMOC Algorithm </strong></center></p>
+<p><center><strong> Minmum Error Subspace Learned by DMMOC </strong></center></p>
 
 
 ### Random Subsample Subspace Ensemble (RSSE)
-In the framework of the Random Subspace Ensemble (RSE) learning, a base classifier is trained on a random subspace and the informative weak classifier is determined by a selected calibration metric. The classification of new samples is performed by a majority vote in the set of informative weak classifiers. However, in many cases the RSE framework derives a set of weak classifiers that give similar decision values for the test sample. To increase heterogeneity of weak classifiers, here we proposed Random Subsample Subspace Ensemble (RSSE) learning framework. In RSSE, weak learners are trained on the subset of training samples and informative weak classifiers are selected not only based on the calibration metric but also heterogeneity of the decision values. 
+In the framework of the Random Subspace Ensemble (RSE) learning, a base classifier is trained on a random subspace and the informative weak classifier is determined by a selected calibration metric. The classification of new samples is performed by a majority vote in the set of informative weak classifiers. However, in many cases the RSE framework derives a set of weak classifiers that give similar decision values for the test sample. To increase heterogeneity of weak classifiers, here we proposed Random Subsample Subspace Ensemble (RSSE) learning framework. In RSSE, weak learners are trained on the subset of training samples and informative weak classifiers are selected not only based on the calibration metric but also heterogeneity of the decision values. In addition, the RSSE framework is combined with DGP4C and DMMOC algorithms to learn disease mechanism associated random subspace ensemble model. This can improve the performance of the ensemble classifier as well as the interpretability of the model.
 
 
 
