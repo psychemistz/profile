@@ -6,6 +6,8 @@ author_profile: true
 date:
 ---
 
+{{ page.path }}
+
 **Research Scientist** in [Synergistic Bioinformatics Lab](http://synbi.kaist.ac.kr) at [KAIST](http://kaist.ac.kr), Daejeon, South Korea.
 
 Design of machine learning and statistical models to discover predictive signatures of cancer and other diseases
