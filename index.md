@@ -42,13 +42,7 @@ My major research topic for MCMT project is developing computational methods to 
 
 
 ## Selected Publications
-
-{% capture link_with_anchor %}{% link _pages/research.md %}## Boosting Prior Knowledge in Machine Learning for Biomarker Discovery{% endcapture %}
-[Links]({{ link_with_anchor }})
-
-
-
-### [Boosting Prior Knowledge in Machine Learning for Biomarker Discovery]({% link /profile/master/_pages/research.md %})
+### Boosting Prior Knowledge in Machine Learning for Biomarker Discovery
 - **Seongyong Park**, Gwansu Yi. Development of Gene Expression-Based Random Forest Model for Predicting Neoadjuvant Chemotherapy Response in Triple-Negative Breast Cancer Cancers. Febrary, 2022 [online](https://www.mdpi.com/2072-6694/14/4/881)
 - Yoon Hyeok Lee, Hojae Choi, **Seongyong Park**, Boah Lee, Gwansu Yi. Drug repositioning for enzyme modulator based on human metabolite-likeness. BMC Bioinformatics, May, 2017 [online](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1637-5)
 
