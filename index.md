@@ -53,10 +53,12 @@ My major research topic for MCMT project is developing computational methods to 
 - **Seongyong Park**, Jaeseok Lee, Shujaat Khan, Abdul Wahab, Minseok Kim. SERSNet: Surface Enhanced Raman Spectroscopy based Bio-Molecule Detection using Deep Neural Network. Biosensors, November, 2021 [[online](https://www.mdpi.com/2079-6374/11/12/490)]
 - **Seongyong Park**, Jaeseok Lee, Shujaat Khan, Abdul Wahab, Minseok Kim. Machine Learning-based Heavy Metal Ion Detection Using Surface-Enhanced Raman Spectroscopy. Sensors, January, 2022 [[online](https://www.mdpi.com/1424-8220/22/2/596)]
 
+
 ### Sparse Representation Learning
 {: #intro_srl }
 - Muhammad Usman, Shujaat Khan, **Seongyong Park**, Abdul Wahab. AFP-SRC: Identification of Antifreeze Proteins Using Sparse Representation Classifier. Neural Computing and Applications (NCA), September. 2021 [[online](http://link.springer.com/article/10.1007/s00521-021-06558-7)]
 - Muhammad Usman, Shujaat Khan, **Seongyong Park**, Jeong-A Lee. AoP-LSE: Antioxidant Proteins Classification Using Deep Latent Space Encoding of Sequence Features. Current Issues in Molecular Biology: (Bioinformatics and Systems Biology section), October. 2021 [[online](https://www.mdpi.com/1467-3045/43/3/105)]
+
 
 ### Ovelap Statistics and its applications [[Video](#ovltools)]
 {: #intro_ovl }
