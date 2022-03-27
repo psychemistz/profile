@@ -9,7 +9,7 @@ permalink: /research/
 [Google Scholar](https://scholar.google.com/citations?user=3GelV-YAAAAJ&hl=en)
 
 
-## [Boosting Prior Knowledge in Machine Learning for Biomarker Discovery]({% link /profile/master/index.md %})
+## Boosting Prior Knowledge in Machine Learning for Biomarker Discovery
 The so-called **small n, large p** problem makes learning classification or regression models difficult for biomedical applications. In such a problem especially in clinical dataset, adding samples is not easy so feature selection or embedding techniques should be used to reduce the number of features *p*. Prior knowledge is fundamentally important and relevant information that can provide an efficient way to regularize the number of features for training machine learning models. Because these knowledge comes from accumulated studies of various biological systems, it is also applicable to patients and model organisms.
 
 In this study, we tried to prevent overfitting of the model and improve the robustness of the model by iteratively querying the appropriateness of the features for each model training process.
