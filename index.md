@@ -63,7 +63,7 @@ My major research topic for MCMT project is developing computational methods to 
 ## Patents
 - Bumki Min, Gwansu Yi and **Seongyong Park**. System and method for disease prediction based on group marker consisting of genes having similar function. KR Patent 1022361940000, App 1020200145453, issued Mar 30, 2021 [online](http://doi.org/10.8080/1020200145453?urlappend=en)
 
-- Taesung Kim and **Seongyong Park**. Microfluidic concentrator array for observing predation behavior of microbes.KR. Patent 1012385560000, App. 1020100110945, issued Febrary 22, 2013. [online](https://doi.org/10.8080/1020100110945?urlappend=en)
+- Taesung Kim and **Seongyong Park**. Microfluidic concentrator array for observing predation behavior of microbes.KR. Patent 1012385560000, App. 1020100110945, issued Febrary 22, 2013. [[online](https://doi.org/10.8080/1020100110945?urlappend=en)]
     
 
 ## Presentations
