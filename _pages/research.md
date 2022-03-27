@@ -56,7 +56,7 @@ Despite the numerous advantages of surface enhanced Raman spectroscopy (SERS), i
 <p><center><strong> Minimum Variance Network (MVNet) based SERS Signal Processing Pipeline </strong></center></p>
 
 
-### Sparse Subsample based Gene Expression Reconstruction
+### Sparse Subsample based Gene Expression Reconstruction [[Video](#ssrecon)]
 Cells do not express genes individually, but as a set of individual programs, and each cell expresses only a limited number of programs at a time. Due to these modular and sparse gene expression properties, it is possible to reconstruct whole gene expression vectors from subsamples of some genes. Here, we proposed a Convolutional Neural Network (CNN) model to reconstruct gene expression. The proposed model has a U-Net-like structure, includes encoding and decoding parts corresponding to transformations and inverse transformations of the data, and learns how to minimize reconstruction errors under given sparsity conditions through training. Using only 10% of the original data, this model was able to achieve 0.86 PCC values comparable to state-of-the-art gene expression reconstruction models.
 
 ![Figure4. Sparse Subsample based Gene Expression Reconstuction Network](/profile/images/ssrecon.png)
