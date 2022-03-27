@@ -47,15 +47,15 @@ My major research topic for MCMT project is developing computational methods to 
 - Yoon Hyeok Lee, Hojae Choi, **Seongyong Park**, Boah Lee, Gwansu Yi. Drug repositioning for enzyme modulator based on human metabolite-likeness. BMC Bioinformatics, May, 2017 [online](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1637-5)
 
 
-### [Self-Supervised Learning for reproducible research]({% link /profile/master/_pages/research.md %})
+### Self-Supervised Learning for reproducible research
 - **Seongyong Park**, Jaeseok Lee, Shujaat Khan, Abdul Wahab, Minseok Kim. SERSNet: Surface Enhanced Raman Spectroscopy based Bio-Molecule Detection using Deep Neural Network. Biosensors, November, 2021 [online](https://www.mdpi.com/2079-6374/11/12/490)
 - **Seongyong Park**, Jaeseok Lee, Shujaat Khan, Abdul Wahab, Minseok Kim. Machine Learning-based Heavy Metal Ion Detection Using Surface-Enhanced Raman Spectroscopy. Sensors, January, 2022 [online](https://www.mdpi.com/1424-8220/22/2/596)
 
-### [Sparse Representation Learning]({% link /profile/master/_pages/research.md %})
+### Sparse Representation Learning
 - Muhammad Usman, Shujaat Khan, **Seongyong Park**, Abdul Wahab. AFP-SRC: Identification of Antifreeze Proteins Using Sparse Representation Classifier. Neural Computing and Applications (NCA), September. 2021 [online](http://link.springer.com/article/10.1007/s00521-021-06558-7)
 - Muhammad Usman, Shujaat Khan, **Seongyong Park**, Jeong-A Lee. AoP-LSE: Antioxidant Proteins Classification Using Deep Latent Space Encoding of Sequence Features. Current Issues in Molecular Biology: (Bioinformatics and Systems Biology section), October. 2021 [online](https://www.mdpi.com/1467-3045/43/3/105)
 
-### [Ovelap Statistics and its applications]({% link /profile/master/_pages/research.md %})
+### Ovelap Statistics and its applications
 - **Seongyong Park**, Shujaat Khan, Muhammad Moinuddin, Ubaid M. Al-Saggaf. GSSMD: A new standardized effect size measure to improve robustness and interpretability in biological applications, 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Seoul, Korea (South), 2020, pp. 1096-1099, [online](https://ieeexplore.ieee.org/document/9313582)
 
 

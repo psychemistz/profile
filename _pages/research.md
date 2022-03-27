@@ -43,7 +43,7 @@ The figure shows performance evaluation result of DGP4C algorithm in Neo-Adjuvan
 
 
 ---
-## [Self-Supervised Learning for reproducible research]({% link /profile/master/index.md %})
+## Self-Supervised Learning for reproducible research
 The self-supervised Learning (SSL) is defined as a machine learning strategy that can be supervised by the transformed training features rather than labels. Self-supervised learning is especially useful when the measurement or labeling process involves uncertainty. In biomedical dataset as well as biosignal processing, many problems can be formulated as self-supervised learning problems. 
 
 In this study, we tried to develop applicatin specific self-supervised learning models for improving reproducibility of specific applications.
@@ -65,7 +65,7 @@ Cells do not express genes individually, but as a set of individual programs, an
 
 
 ---
-## [Sparse Representation Learning]({% link /profile/master/index.md %})
+## Sparse Representation Learning
 In many biological applications, the large number of features often makes it difficult to build a good performing classification model. Here, I and my colleagues introduced and characterized several sparsity promoting deep learning models to learn low-dimensional representations for use in downstream tasks. As an application, we applied our model for sequence based protein classification and protein-protein interaction prediction tasks. 
 
 ### Deep Latent Space Encoding (DeepLSE)
@@ -90,7 +90,7 @@ Sparse Representation based Classification (SRC) framwork is based on a parsimon
 
 
 ---
-## [Ovelap Statistics and its applications]({% link /profile/master/index.md %})
+## Ovelap Statistics and its applications
 Distribution overlap between two probability distributions are fundamental effect size measure for binary classification task. I and my collagures utilized overlap statistics as a metric for evaluating data and model in various applications, such as bioassay, differential expression/activity analysis, data/model quality assessment tasks. 
 
 ![Figure8. Relationship between binary classifier and overlap statistics](/profile/images/overlap.png)
