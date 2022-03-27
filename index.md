@@ -6,8 +6,6 @@ author_profile: true
 date:
 ---
 
-{{ page.path }}
-
 **Research Scientist** in [Synergistic Bioinformatics Lab](http://synbi.kaist.ac.kr) at [KAIST](http://kaist.ac.kr), Daejeon, South Korea.
 
 Design of machine learning and statistical models to discover predictive signatures of cancer and other diseases
@@ -73,7 +71,7 @@ My major research topic for MCMT project is developing computational methods to 
     
 
 ## Presentations
-### BIBM, Online, 2020 [[Research]({% link _pages/research.md %})] [[Publication](#intro_ovl)]
+### BIBM, Online, 2020 [[Research]({% link /_pages/research.md %})] [[Publication](#intro_ovl)]
 {: #ovltools }
 <iframe width="1664" height="701" src="https://www.youtube.com/embed/Vk6z-_TnVuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
