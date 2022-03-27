@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 ---
 
-{{ page.path }}
 
 ## Publications
 
