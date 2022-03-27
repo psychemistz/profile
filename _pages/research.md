@@ -35,7 +35,11 @@ The figure shows performance evaluation result of DGP4C algorithm in Neo-Adjuvan
 
 
 ### Disease Mechanism Subgroup Identification by Iterative Error Estimation (DMSDIE)
+In many disease phenotype classification tasks, the identification of subgroups involved in disease mechanisms is an important subtask in understanding disease pathogenesis. unlike other studies that have used some clustering techniques to find subgroups, here we use iterative error estimation to find classifiable subgroups within a random feature subspace of mechanism associated feature space. For each important disease mechanism, we find associated sample sets to be used as dictionary for the new sample classification. 
 
+![Figure2. DMSDIE Framework](/profile/images/dmsdie.jpg)
+
+<p><center><strong> DMSDIE Framework </strong></center></p>
 
 
 ### Random Subsample Subspace Ensemble (RDSE)
