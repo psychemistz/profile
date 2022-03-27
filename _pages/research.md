@@ -27,7 +27,7 @@ The above figure provides a schematic diagram of the proposed DGP4C framework. T
 
 ![Figure2. Performance Assessment of Disease Gene Prioritization for Classification (DGP4C) Framework](/profile/images/dgp4c_result.jpg)
 
-<p><center><strong> Performance Assessment of Disease Gene Prioritization for Classification (DGP4C) Framework </strong></center></p>
+<p><center><strong> Performance Assessment of DGP4C Framework </strong></center></p>
 
 
 
