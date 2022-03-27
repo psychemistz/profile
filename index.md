@@ -71,7 +71,7 @@ My major research topic for MCMT project is developing computational methods to 
     
 
 ## Presentations
-### BIBM, Online, 2020 [[Publication](#intro_ovl)] [[Research]({% link research.md | #research_ovl %})]
+### BIBM, Online, 2020 [[Publication](#intro_ovl)] 
 {: #ovltools }
 <iframe width="1664" height="701" src="https://www.youtube.com/embed/Vk6z-_TnVuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
