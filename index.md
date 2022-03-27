@@ -56,11 +56,11 @@ My major research topic for MCMT project is developing computational methods to 
 ### Sparse Representation Learning
 {: #intro_srl }
 - Muhammad Usman, Shujaat Khan, **Seongyong Park**, Abdul Wahab. AFP-SRC: Identification of Antifreeze Proteins Using Sparse Representation Classifier. Neural Computing and Applications (NCA), September. 2021 [[online](http://link.springer.com/article/10.1007/s00521-021-06558-7)]
-- Muhammad Usman, Shujaat Khan, **Seongyong Park**, Jeong-A Lee. AoP-LSE: Antioxidant Proteins Classification Using Deep Latent Space Encoding of Sequence Features. Current Issues in Molecular Biology: (Bioinformatics and Systems Biology section), October. 2021 [online](https://www.mdpi.com/1467-3045/43/3/105)
+- Muhammad Usman, Shujaat Khan, **Seongyong Park**, Jeong-A Lee. AoP-LSE: Antioxidant Proteins Classification Using Deep Latent Space Encoding of Sequence Features. Current Issues in Molecular Biology: (Bioinformatics and Systems Biology section), October. 2021 [[online](https://www.mdpi.com/1467-3045/43/3/105)]
 
 ### Ovelap Statistics and its applications [[Video](#ovltools)]
 {: #intro_ovl }
-- **Seongyong Park**, Shujaat Khan, Muhammad Moinuddin, Ubaid M. Al-Saggaf. GSSMD: A new standardized effect size measure to improve robustness and interpretability in biological applications, 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Seoul, Korea (South), 2020, pp. 1096-1099, [online](https://ieeexplore.ieee.org/document/9313582)
+- **Seongyong Park**, Shujaat Khan, Muhammad Moinuddin, Ubaid M. Al-Saggaf. GSSMD: A new standardized effect size measure to improve robustness and interpretability in biological applications, 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Seoul, Korea (South), 2020, pp. 1096-1099, [[online](https://ieeexplore.ieee.org/document/9313582)]
 
 
 
