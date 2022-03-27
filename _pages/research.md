@@ -10,6 +10,7 @@ permalink: /research/
 
 
 ## Boosting Prior Knowledge in Machine Learning for Biomarker Discovery
+{: #research_biomarker }
 The so-called **small n, large p** problem makes learning classification or regression models difficult for biomedical applications. In such a problem especially in clinical dataset, adding samples is not easy so feature selection or embedding techniques should be used to reduce the number of features *p*. Prior knowledge is fundamentally important and relevant information that can provide an efficient way to regularize the number of features for training machine learning models. Because these knowledge comes from accumulated studies of various biological systems, it is also applicable to patients and model organisms.
 
 In this study, we tried to prevent overfitting of the model and improve the robustness of the model by iteratively querying the appropriateness of the features for each model training process.
@@ -44,6 +45,7 @@ The figure shows performance evaluation result of DGP4C algorithm in Neo-Adjuvan
 
 ---
 ## Self-Supervised Learning for reproducible research
+{: #research_ssl }
 The self-supervised Learning (SSL) is defined as a machine learning strategy that can be supervised by the transformed training features rather than labels. Self-supervised learning is especially useful when the measurement or labeling process involves uncertainty. In biomedical dataset as well as biosignal processing, many problems can be formulated as self-supervised learning problems. 
 
 In this study, we tried to develop applicatin specific self-supervised learning models for improving reproducibility of specific applications.
@@ -66,6 +68,7 @@ Cells do not express genes individually, but as a set of individual programs, an
 
 ---
 ## Sparse Representation Learning
+{: #research_srl }
 In many biological applications, the large number of features often makes it difficult to build a good performing classification model. Here, I and my colleagues introduced and characterized several sparsity promoting deep learning models to learn low-dimensional representations for use in downstream tasks. As an application, we applied our model for sequence based protein classification and protein-protein interaction prediction tasks. 
 
 ### Deep Latent Space Encoding (DeepLSE)
@@ -91,6 +94,7 @@ Sparse Representation based Classification (SRC) framwork is based on a parsimon
 
 ---
 ## Ovelap Statistics and its applications
+{: #research_ovl }
 Distribution overlap between two probability distributions are fundamental effect size measure for binary classification task. I and my collagures utilized overlap statistics as a metric for evaluating data and model in various applications, such as bioassay, differential expression/activity analysis, data/model quality assessment tasks. 
 
 ![Figure8. Relationship between binary classifier and overlap statistics](/profile/images/overlap.png)
