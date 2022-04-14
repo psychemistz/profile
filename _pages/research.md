@@ -96,7 +96,7 @@ Sparse Representation based Classification (SRC) framwork is based on a parsimon
 
 
 ---
-## Ovelap Statistics and its applications
+## Overlap Statistics and its applications
 {: #research_ovl }
 Distribution overlap between two probability distributions are fundamental effect size measure for binary classification task. I and my collagures utilized overlap statistics as a metric for evaluating data and model in various applications, such as bioassay, differential expression/activity analysis, data/model quality assessment tasks. 
 
