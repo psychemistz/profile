@@ -45,7 +45,7 @@ In many disease phenotype classification tasks, the identification of subgroups 
 In the framework of the Random Subspace Ensemble (RSE) learning, a base classifier is trained on a random subspace and the informative weak classifier is determined by a selected calibration metric. The classification of new samples is performed by a majority vote in the set of informative weak classifiers. However, in many cases the RSE framework derives a set of weak classifiers that give similar decision values for the test sample. To increase heterogeneity of weak classifiers, here we proposed Random Subsample Subspace Ensemble (RSSE) learning framework. In RSSE, weak learners are trained on the subset of training samples and informative weak classifiers are selected not only based on the calibration metric but also heterogeneity of the decision values. In addition, the RSSE framework is combined with DGP4C and DMMOC algorithms to learn disease mechanism associated random subspace ensemble model. This can improve the performance of the ensemble classifier as well as the interpretability of the model.
 
 
-
+<!--
 ---
 ## Self-Supervised Learning for reproducible research
 {: #research_ssl }
@@ -87,14 +87,14 @@ Sparse Representation based Classification (SRC) framwork is based on a parsimon
 ![Figure7. DeepSRC Model](/profile/images/deepsrc.png)
 
 <p><center><strong> Schematic Illustration of DeepSRC Model </strong></center></p>
-
+-->
 
 
 <!--
 ### Sparse Gene Optimization for Classification (SGOC)
 -->
 
-
+<!--
 ---
 ## Overlap Statistics and its applications
 {: #research_ovl }
@@ -119,7 +119,7 @@ In this paper, we extended the idea of one-dimensional overlap coefficient into 
 ![Figure10. Schematic Diagram of GMDM](/profile/images/gmdm.png)
 
 <p><center><strong> Schematic Diagram of GMDM </strong></center></p>
-
+-->
 
 <!--
 ## Generative Adversarial Network (GAN) for Biomedical Signal Processing Applications

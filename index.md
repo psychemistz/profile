@@ -38,7 +38,8 @@ Machine Learning -- Statistics -- Bioinformatics -- Scientific computing -- Data
 ## Bio
 I have over 7 years of experience in bioinformatics and machine learning. In the meantime, I managed *Multi-Component and Multi-Target (MCMT) drug discovery from Traditional Korean Medicine* project and initiated *Developing AI model for cancer drug discovery* projects for Synergistic Bioinformatics Lab at KAIST. I managed databases related to the bioinformatic/chemoinformatic discovery and closely interact with members of experimental labs who verify prediction of biomarkers and candidate drugs. I designed computational methods to harmonize prior knowledge of disease gene, biological network, disease mechanism associated gene sets and gene expression datasets of patient/model organisms. I managed CPU/GPU clusters to perform high-performance computing (HPC) too. 
 
-My major research topic for MCMT project is developing computational methods to optimize gene expression marker set to explain clinical and model organism responses at the same time, by utilizing the prior knowledge related to the disease mechanisms. I have co-authored several patents and peer-reviewed articles related to bioinformatics and machine/deep learning. For bioinformatic applications, I studied gene expression based prognostic model development, assay oriented marker set optimization, drug-target interaction prediction and drug repurposing. I'm also interested in applying statistial/machine/deep learning in various other topics such as application of overlap statistics, sequence based protein classification, protein-protein interaction prediction, spectral signal processing including ElectroEncehpaloGraphy (EEG) and Surface Enhanced Raman Spectroscopy (SERS).
+My major research topic for MCMT project is developing computational methods to optimize gene expression marker set to explain clinical and model organism responses at the same time, by utilizing the prior knowledge related to the disease mechanisms. I have co-authored several patents and peer-reviewed articles related to bioinformatics and machine/deep learning. For bioinformatic applications, I studied gene expression based prognostic model development, assay oriented marker set optimization, drug-target interaction prediction and drug repurposing. 
+<!--I'm also interested in applying statistial/machine/deep learning in various other topics such as application of overlap statistics, sequence based protein classification, protein-protein interaction prediction, spectral signal processing including ElectroEncehpaloGraphy (EEG) and Surface Enhanced Raman Spectroscopy (SERS).-->
 
 
 ## Selected Publications
@@ -47,7 +48,7 @@ My major research topic for MCMT project is developing computational methods to 
 - **Seongyong Park**, Gwansu Yi. Development of Gene Expression-Based Random Forest Model for Predicting Neoadjuvant Chemotherapy Response in Triple-Negative Breast Cancer Cancers. Febrary, 2022 [[online](https://www.mdpi.com/2072-6694/14/4/881)]
 - Yoon Hyeok Lee, Hojae Choi, **Seongyong Park**, Boah Lee, Gwansu Yi. Drug repositioning for enzyme modulator based on human metabolite-likeness. BMC Bioinformatics, May, 2017 [[online](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1637-5)]
 
-
+<!--
 ### Self-Supervised Learning for reproducible research
 {: #intro_ssl }
 - **Seongyong Park**, Jaeseok Lee, Shujaat Khan, Abdul Wahab, Minseok Kim. SERSNet: Surface Enhanced Raman Spectroscopy based Bio-Molecule Detection using Deep Neural Network. Biosensors, November, 2021 [[online](https://www.mdpi.com/2079-6374/11/12/490)]
@@ -63,7 +64,7 @@ My major research topic for MCMT project is developing computational methods to 
 ### Ovelap Statistics and its applications [[Video](#ovltools)]
 {: #intro_ovl }
 - **Seongyong Park**, Shujaat Khan, Muhammad Moinuddin, Ubaid M. Al-Saggaf. GSSMD: A new standardized effect size measure to improve robustness and interpretability in biological applications, 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Seoul, Korea (South), 2020, pp. 1096-1099, [[online](https://ieeexplore.ieee.org/document/9313582)]
-
+-->
 
 
 ## Patents
@@ -73,9 +74,11 @@ My major research topic for MCMT project is developing computational methods to 
     
 
 ## Presentations
+<!--
 ### BIBM, Online, 2020 [[Publication](#intro_ovl)]
 {: #ovltools }
 <iframe width="1664" height="701" src="https://www.youtube.com/embed/Vk6z-_TnVuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 
 ### Biofusion Seminar, KAIST, Daejeon, 2019
 {: #ssrecon }
