@@ -6,9 +6,9 @@ author_profile: true
 date:
 ---
 
-**Research Scientist** in [Synergistic Bioinformatics Lab](http://synbi.kaist.ac.kr) at [KAIST](http://kaist.ac.kr), Daejeon, South Korea.
+**Research Scientist** in [Cancer Data Science Lab](https://ccr.cancer.gov/staff-directory/peng-jiang) at [NCI](https://ccr.cancer.gov/), Bethesda, MD, USA.
 
-Design of machine learning and statistical models to discover predictive signatures of cancer and other diseases
+Design of machine learning and statistical models to discover predictive signatures of immunotherapy response in cancer.
 
 
 ## Keywords
@@ -23,20 +23,22 @@ Machine Learning -- Statistics -- Bioinformatics -- Scientific computing -- Data
 
 
 ## Experience
-- *2015-now*: **Ph.D. Resaerch Scholar** at [Synergistic Bioinformatics Lab](https://synbi.kaist.ac.kr/), KAIST., South Korea.
+- *2023-*: **Postdoctoral Resaercher** at [Cancer Data Science Lab](https://ccr.cancer.gov/staff-directory/peng-jiang), National Cancer Institute ([NCI](https://ccr.cancer.gov/)), MD, USA.
+- *2022-2022*: **Postdoctoral Resaercher** at [BAPOR Lab (SignalHouse)](http://signalhouse.kr/), Asan Medical Center ([AMC](https://eng.amc.seoul.kr/gb/lang/main.do)), South Korea.
+- *2015-2022*: **Ph.D. Resaerch Scholar** at [Synergistic Bioinformatics Lab](https://synbi.kaist.ac.kr/), KAIST., South Korea.
 - *2014-2015*: **Researcher** at [Synergistic Bioinformatics Lab](https://synbi.kaist.ac.kr/), KAIST., South Korea.
 - *2012-2014*: **Researcher** at [Biobrain Inc.](https://biobrain.kr/), South Korea.
 - *2012*: **Researcher** at Planning and Evaluation Office, Korea Institute of Energy Technology Evaluation and Planning ([KETEP](https://www.ketep.re.kr/)), South Korea.
 
 
 ## Education
-- *2015-now*: **Ph.D.** in Bio and Brain Engineering at Korean Advanced Institute of Science and Technology ([KAIST](http://www.kaist.ac.kr)), Daejeon, South Korea.
+- *2015-2022*: **Ph.D.** in Bio and Brain Engineering at Korean Advanced Institute of Science and Technology ([KAIST](http://www.kaist.ac.kr)), Daejeon, South Korea.
 - *2010-2012*: **M.S.** in Mechanical Engineering. Ulsan National Institute of Science and Technology ([UNIST](http://www.unist.ac.kr/)), Ulsan, South Korea.
 - *2002-2010*: **B.S.** in Mechanical Engineering. Pukyung National University ([PKNU](http://www.pknu.ac.kr/)), Busan, South Korea.
 
 
 ## Bio
-I have over 7 years of experience in bioinformatics and machine learning. In the meantime, I managed *Multi-Component and Multi-Target (MCMT) drug discovery from Traditional Korean Medicine* project and initiated *Developing AI model for cancer drug discovery* projects for Synergistic Bioinformatics Lab at KAIST. I managed databases related to the bioinformatic/chemoinformatic discovery and closely interact with members of experimental labs who verify prediction of biomarkers and candidate drugs. I designed computational methods to harmonize prior knowledge of disease gene, biological network, disease mechanism associated gene sets and gene expression datasets of patient/model organisms. I managed CPU/GPU clusters to perform high-performance computing (HPC) too. 
+I have over 8 years of experience in bioinformatics and machine learning. In the meantime, I managed *Multi-Component and Multi-Target (MCMT) drug discovery from Traditional Korean Medicine* project and initiated *Developing AI model for cancer drug discovery* projects for Synergistic Bioinformatics Lab at KAIST. I managed databases related to the bioinformatic/chemoinformatic discovery and closely interact with members of experimental labs who verify prediction of biomarkers and candidate drugs. I designed computational methods to harmonize prior knowledge of disease gene, biological network, disease mechanism associated gene sets and gene expression datasets of patient/model organisms. I managed CPU/GPU clusters to perform high-performance computing (HPC) too. 
 
 My major research topic for MCMT project is developing computational methods to optimize gene expression marker set to explain clinical and model organism responses at the same time, by utilizing the prior knowledge related to the disease mechanisms. I have co-authored several patents and peer-reviewed articles related to bioinformatics and machine/deep learning. For bioinformatic applications, I studied gene expression based prognostic model development, assay oriented marker set optimization, drug-target interaction prediction and drug repurposing. 
 I'm also interested in applying statistial/machine/deep learning in various other topics such as application of overlap statistics, sequence based protein classification, protein-protein interaction prediction, spectral signal processing including ElectroEncehpaloGraphy (EEG) and Surface Enhanced Raman Spectroscopy (SERS).
